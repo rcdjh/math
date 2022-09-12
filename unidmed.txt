@@ -1,9 +1,22 @@
 Unidade sobre medida
 O calculo sera realizado com esses conceitos
 
-necessario
+necessario ter conhecimentos basicos em:
 
 fisica 1
 matematica 1
+geomertia anal e calculo vetorial
+calculo 1
+eletronica 1
+estrutura de dados 1
+lab de prom 1
+microc e microp 1
+algebra linear
+topicos especial engenharia 1
+sistemas digitais 1
+lp 1
+________________________________________________________________________
 
+**** IMPORTANTE ****
 
+Valor de deslocamento tera seu resultado =0 (O calculo tem como principal parametro para funcionalidade o valor do deslocamento do objeto que sera considerado pela letra d)
