@@ -20,3 +20,39 @@ ________________________________________________________________________
 **** IMPORTANTE ****
 
 Valor de deslocamento tera seu resultado =0 (O calculo tem como principal parametro para funcionalidade o valor do deslocamento do objeto que sera considerado pela letra d)
+
+Curiosidade
+Olha que interessante
+
+1j=1n.1m
+	Isso definitivamente é fato!
+j=N.m
+Em fisica sempre
+Isso faz parte da fisica
+ A formula sera usada tanto para a descoberta para força, trabalho e distancia
+ INCRIVEL
+ É muito importante que tenhamos descrito o valor da força ou do trabalho, caso não tenhamos as informações descritas, não sera possivel seguir com o calculo.
+ 
+ Força e deslocamento para a realização do trabalho
+ Caso cada um dos itens mais importantes não seja encontrado no processo do calculo podemos seguir com a interrupção com o resultado final de igual a 0
+
+W=F.d
+w=100N.d
+W=100.0
+W=0
+
+Quando não temos deslocamento ou força teremos seu resultado como 0
+
+
+W=F.d
+w=200.2
+W=400
+
+W=F.d
+w=200.4
+W=800
+
+Quando temos o dado de que a força esta sendo aplicada no mesmo sentido que o deslocamento, usaremos esse calculo simples.
+Lembrando que estamos falando sobre o assunto conceitual de unidade de media.
+
+
