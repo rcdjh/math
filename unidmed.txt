@@ -39,22 +39,20 @@ Isso faz parte da fisica
 W=F.d
 w=100N.d
 W=100.0
-W=0
+W=0j
 
 Quando não temos deslocamento ou força teremos seu resultado como 0
 
-
 W=F.d
 w=200.2
-W=400
+W=400j
 
 W=F.d
 w=200.4
-W=800
+W=800j
 
 Quando temos o dado de que a força esta sendo aplicada no mesmo sentido que o deslocamento, usaremos esse calculo simples.
 Lembrando que estamos falando sobre o assunto conceitual de unidade de media.
-
 
 qua 14 set 2022 19:37:19 -05
 qua 14 set 2022 19:37:34 -05
@@ -65,3 +63,10 @@ ___________________________________
 |9409d2b99f87f7fee7c3429cd8538961c4075757|
 |e45f26ad694db858d466946652a907e3923204f7|
 |bf0bd055a63bf315f10dac466b33a2bb8d0afc72|
+
+
+constant force em 30k=j
+hf=a
+W=F.d.(d)
+W=F.d.cos
+Contato com Newton, Jaule, Força, Deslocamento
