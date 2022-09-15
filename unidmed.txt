@@ -61,3 +61,7 @@ qua 14 set 2022 19:37:34 -05
 push depois do clone
 ___________________________________
 /home/need/flops/math#
+|9c8185960c6944ccc5cfbe3a885f35433ec490e1|
+|9409d2b99f87f7fee7c3429cd8538961c4075757|
+|e45f26ad694db858d466946652a907e3923204f7|
+|bf0bd055a63bf315f10dac466b33a2bb8d0afc72|
