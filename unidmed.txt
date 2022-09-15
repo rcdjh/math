@@ -56,3 +56,8 @@ Quando temos o dado de que a força esta sendo aplicada no mesmo sentido que o d
 Lembrando que estamos falando sobre o assunto conceitual de unidade de media.
 
 
+qua 14 set 2022 19:37:19 -05
+qua 14 set 2022 19:37:34 -05
+push depois do clone
+___________________________________
+/home/need/flops/math#
