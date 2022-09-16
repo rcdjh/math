@@ -70,3 +70,7 @@ hf=a
 W=F.d.(d)
 W=F.d.cos
 Contato com Newton, Jaule, Força, Deslocamento
+
+Todas as evidencias serao colocadas no conjunto de informacoes
+Todo conteudo foi retirado da internet, nao tem como ficar apenas com o conteudo da universidade
+
